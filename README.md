@@ -26,3 +26,7 @@ A program that prints out a double half-pyramid of a specified height.
 
 A program that calculates the minimum number of coins required to give a user change.
 > A greedy algorithm 
+
+## Caesar
+
+A program that encrypts messages using Ceasar's cipher, requires command line input of a key from a user, then it asks for message that has to be encrypted and returns it as a plaintext.
