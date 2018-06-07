@@ -30,3 +30,7 @@ A program that calculates the minimum number of coins required to give a user ch
 ## Caesar
 
 A program that encrypts messages using Ceasar's cipher, requires command line input of a key from a user, then it asks for message that has to be encrypted and returns it as a plaintext.
+
+## Vigenere
+
+A program that encrypts messages using Vigenère’s cipher, requires command line input of a key in form of a word (letters), then it asks for text to encrypt and returns it as a plaintext, encrypted.
